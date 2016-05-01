@@ -1,0 +1,5 @@
+@import "settings";
+@import "hero";
+// Include foundation files
+@import "foundation";
+@include foundation-everything();

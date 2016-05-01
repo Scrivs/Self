@@ -1,0 +1,21 @@
+{
+  "name": "PaulScrivens",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Scrivs <scrivs@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower_download",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}

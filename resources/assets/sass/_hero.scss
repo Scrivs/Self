@@ -1,0 +1,15 @@
+.hero {
+	p {
+		font-size: rem-calc(20);
+	}
+	.content {
+		padding: 2rem;
+		.avatar {
+			margin-bottom: 2rem;
+		}
+	}
+	.scrivs {
+		background: $oil url('/assets/img/thinker.jpeg') fixed no-repeat center;
+		background-size: 100%;
+	}
+}
